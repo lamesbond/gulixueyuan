@@ -10,24 +10,8 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="首次提交">
+    <list default="true" id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/Globalexceptionhandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/Globalexceptionhandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/GuliException.java" beforeDir="false" afterPath="$PROJECT_DIR$/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/GuliException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/api_gateway/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseDescriptionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseDescriptionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduLoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/CourseFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/CourseFrontController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/EduIndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/EduIndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/TeacherFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/TeacherFrontController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/service/impl/UcenterMemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/service/impl/UcenterMemberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_vod/src/main/java/com/atguigu/aliyunvod/controller/VodController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_vod/src/main/java/com/atguigu/aliyunvod/controller/VodController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -202,11 +186,6 @@
             <path>
               <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -269,7 +248,7 @@
     </option>
     <option name="contentProportion" value="0.090655506" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EduApplication">
+  <component name="RunManager" selected="Spring Boot.CmsApplication">
     <configuration name="CanalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.canal.CanalApplication" />
       <module name="canal_clientedu" />
@@ -479,7 +458,7 @@
       <workItem from="1598432904989" duration="959000" />
       <workItem from="1598435630015" duration="22000" />
       <workItem from="1598436131002" duration="77000" />
-      <workItem from="1598515418771" duration="1918000" />
+      <workItem from="1598515418771" duration="3521000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1597929729238</created>
@@ -488,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597929729238</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完善接口">
+      <created>1598520308867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598520308867</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -524,7 +510,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327031000" />
+    <option name="totallyTimeSpent" value="328634000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,7 +524,7 @@
   <component name="ToolWindowManager">
     <frame x="343" y="66" width="1544" height="913" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49445677" visible="true" weight="0.25238097" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49445677" visible="true" weight="0.25238097" />
       <window_info id="Structure" order="1" sideWeight="0.50554323" side_tool="true" weight="0.27278912" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -554,13 +540,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.32777777" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50068027" side_tool="true" weight="0.37361112" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50068027" side_tool="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Run Dashboard" order="9" sideWeight="0.49931973" weight="0.37361112" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32777777" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3263889" />
       <window_info anchor="bottom" id="Problems" order="12" weight="0.32896653" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49931973" weight="0.32916668" />
       <window_info anchor="bottom" id="Spring" order="15" weight="0.32916668" />
       <window_info anchor="bottom" id="Dependency Viewer" order="16" weight="0.05241379" />
       <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32916668" />
@@ -621,9 +607,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+    <MESSAGE value="完善接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善接口" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
