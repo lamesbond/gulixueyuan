@@ -82,6 +82,8 @@ public class UcenterMemberServiceImpl extends ServiceImpl<UcenterMemberMapper, U
         }
         //判断验证码
         String redisCode = redisTemplate.opsForValue().get(mobile);
+        System.out.println("redisCode:"+redisCode);
+        System.out.println("code:"+code);
         if (!code.equals(redisCode)){
             throw new GuliException(20001,"注册失败");
         }

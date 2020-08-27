@@ -21,7 +21,7 @@ import java.util.List;
  */
 @RestController
 @RequestMapping("/eduservice/video")
-//@CrossOrigin
+@CrossOrigin
 public class EduVideoController {
     @Autowired
     private EduVideoService eduVideoService;
@@ -40,6 +40,7 @@ public class EduVideoController {
     //删除小节同时把小节中的视频删除
     @DeleteMapping("{id}")
     public R deleteVideo(@PathVariable String id) {
+        System.out.println(id);
         //根据小节id查询出视频id，进行删除
         EduVideo eduVideobyId = eduVideoService.getById(id);
         String videoSourceId = eduVideobyId.getVideoSourceId();

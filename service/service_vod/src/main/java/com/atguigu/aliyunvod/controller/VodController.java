@@ -36,6 +36,7 @@ public class VodController {
                          @PathVariable String videoId) {
 
         vodService.removeVideo(videoId);
+        System.out.println("11111111111111111111122222");
         return R.ok().message("视频删除成功");
     }
 

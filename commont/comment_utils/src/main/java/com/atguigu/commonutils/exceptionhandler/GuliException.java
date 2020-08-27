@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
  */
 @Data
 @AllArgsConstructor  //有参数构造器
-@NoArgsConstructor
+@NoArgsConstructor   //生成无参数构造
 public class GuliException extends RuntimeException {
     private Integer code;//状态码
     private String msg;//输出消息

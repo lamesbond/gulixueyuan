@@ -33,7 +33,7 @@ import java.util.List;
 @Api(description = "添加课程信息")
 @RestController
 @RequestMapping("/eduservice/course")
-//@CrossOrigin
+@CrossOrigin
 public class EduCourseController {
     @Autowired
     private EduCourseService eduCourseService;
