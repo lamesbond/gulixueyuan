@@ -27,6 +27,7 @@ import java.util.List;
  * @author atguigu
  * @since 2020-08-05
  */
+@Transactional
 @Service
 public class EduSubjectServiceImpl extends ServiceImpl<EduSubjectMapper, EduSubject> implements EduSubjectService {
     //添加课程分类

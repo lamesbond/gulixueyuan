@@ -21,6 +21,7 @@ import java.util.Map;
  * @author atguigu
  * @since 2020-08-02
  */
+@Transactional
 @Service
 public class EduTeacherServiceImpl extends ServiceImpl<EduTeacherMapper, EduTeacher> implements EduTeacherService {
 

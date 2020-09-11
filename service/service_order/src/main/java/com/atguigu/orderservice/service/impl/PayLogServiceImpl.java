@@ -13,6 +13,7 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.github.wxpay.sdk.WXPayUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.io.IOException;
 import java.math.BigDecimal;
@@ -28,6 +29,7 @@ import java.util.Map;
  * @author atguigu
  * @since 2020-08-16
  */
+@Transactional
 @Service
 public class PayLogServiceImpl extends ServiceImpl<PayLogMapper, PayLog> implements PayLogService {
 

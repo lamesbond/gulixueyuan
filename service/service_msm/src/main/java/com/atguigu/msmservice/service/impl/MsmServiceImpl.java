@@ -10,9 +10,11 @@ import com.aliyuncs.profile.DefaultProfile;
 import com.atguigu.msmservice.service.MsmService;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Map;
 
+@Transactional
 @Service
 public class MsmServiceImpl implements MsmService {
     /**
