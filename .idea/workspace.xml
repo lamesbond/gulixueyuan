@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="AutomaticModuleUnloader">
     <loaded-modules>
       <module name="guli_parent" />
@@ -10,41 +13,7 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/service/impl/CrmBannerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/service/impl/CrmBannerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/PayLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/PayLogServiceImpl.java" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/service/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_edu/target/" />
-    <ignored path="$PROJECT_DIR$/service/comment/target/" />
-    <ignored path="$PROJECT_DIR$/comment/target/" />
-    <ignored path="$PROJECT_DIR$/comment/service_base/target/" />
-    <ignored path="$PROJECT_DIR$/commont/target/" />
-    <ignored path="$PROJECT_DIR$/commont/service_base/target/" />
-    <ignored path="$PROJECT_DIR$/commont/comment_utils/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_oss/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_vod/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_cms/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_msm/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_ucenter/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_order/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_statistics/target/" />
-    <ignored path="$PROJECT_DIR$/canal_clientedu/target/" />
-    <ignored path="$PROJECT_DIR$/infrastructure/target/" />
-    <ignored path="$PROJECT_DIR$/infrastructure/api_gateway/target/" />
-    <ignored path="$PROJECT_DIR$/service/service_acl/target/" />
-    <ignored path="$PROJECT_DIR$/commont/spring_security/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,19 +38,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="guli_parent" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,11 +119,6 @@
         <option name="userSettingsFile" value="D:\developer_tools\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -188,6 +139,7 @@
     <option name="width" value="1431" />
     <option name="height" value="839" />
   </component>
+  <component name="ProjectId" id="2BG1H4j6KjD8BUuFeOHfnR0EH6h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -209,6 +161,9 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -229,6 +184,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.run.dashboard.notification" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -249,19 +205,6 @@
       <recent name="D:\123\guli_parent\infrastructure\api_gateway\src\main\java\com\atguigu\gateway" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-    <option name="contentProportion" value="0.090655506" />
-  </component>
   <component name="RunManager" selected="Spring Boot.OssApplication">
     <configuration name="CanalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.canal.CanalApplication" />
@@ -272,6 +215,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -407,6 +363,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -481,6 +438,7 @@
       <workItem from="1599745594020" duration="2467000" />
       <workItem from="1599824645640" duration="771000" />
       <workItem from="1599833210856" duration="262000" />
+      <workItem from="1656517519346" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1597929729238</created>
@@ -635,29 +593,14 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -676,6 +619,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首次提交" />
@@ -688,37 +632,31 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
           <line>98</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
           <line>74</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
           <line>57</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
           <line>203</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/filter/TokenLoginFilter.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
