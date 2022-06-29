@@ -2,42 +2,35 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile name="Annotation profile for guli_parent" enabled="true">
-        <sourceOutputDir name="../../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring_security" />
         <module name="service_order" />
         <module name="service_msm" />
         <module name="service_cms" />
         <module name="service_oss" />
-        <module name="service_acl" />
         <module name="service_statistics" />
+        <module name="service_acl" />
         <module name="service_vod" />
         <module name="service_base" />
         <module name="service_edu" />
+        <module name="canal_clientedu" />
         <module name="service_ucenter" />
         <module name="api_gateway" />
         <module name="comment_utils" />
-      </profile>
-      <profile name="Annotation profile for canal_clientedu" enabled="true">
-        <sourceOutputDir name="../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="canal_clientedu" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api_gateway" target="1.8" />
       <module name="canal_clientedu" target="1.8" />
-      <module name="comment" target="1.8" />
       <module name="comment_utils" target="1.8" />
       <module name="commont" target="1.8" />
       <module name="gulixueyuan" target="1.8" />
       <module name="infrastructure" target="1.8" />
       <module name="service" target="1.8" />
       <module name="service_acl" target="1.8" />
-      <module name="service_banner" target="1.5" />
       <module name="service_base" target="1.8" />
       <module name="service_cms" target="1.8" />
       <module name="service_edu" target="1.8" />
@@ -48,20 +41,19 @@
       <module name="service_ucenter" target="1.8" />
       <module name="service_vod" target="1.8" />
       <module name="spring_security" target="1.8" />
+      <module name="wrapper" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api_gateway" options="-parameters" />
       <module name="canal_clientedu" options="-parameters" />
-      <module name="comment" options="-parameters" />
       <module name="comment_utils" options="-parameters" />
       <module name="commont" options="-parameters" />
       <module name="gulixueyuan" options="-parameters" />
       <module name="infrastructure" options="-parameters" />
       <module name="service" options="" />
       <module name="service_acl" options="-parameters" />
-      <module name="service_banner" options="" />
       <module name="service_base" options="-parameters" />
       <module name="service_cms" options="-parameters" />
       <module name="service_edu" options="-parameters" />

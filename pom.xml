@@ -15,10 +15,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.atguigu</groupId>
-    <artifactId>guli_parent</artifactId>
+    <artifactId>gulixueyuan</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>guli_parent</name>
+    <name>gulixueyuan</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -13,7 +13,33 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="" />
+    <list default="true" id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="完善接口">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canal_clientedu/canal_clientedu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/canal_clientedu/canal_clientedu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canal_clientedu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/canal_clientedu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commont/comment_utils/comment_utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commont/comment_utils/comment_utils.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commont/commont.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commont/commont.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commont/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/commont/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commont/service_base/service_base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commont/service_base/service_base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commont/spring_security/spring_security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commont/spring_security/spring_security.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api_gateway/api_gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/api_gateway/api_gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/infrastructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/infrastructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_acl/service_acl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_acl/service_acl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/service_cms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cms/service_cms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/service_edu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/service_edu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/service_msm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_msm/service_msm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/service_order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/service_order.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/service_oss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/service_oss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_statistics/service_statistics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_statistics/service_statistics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_ucenter/service_ucenter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_ucenter/service_ucenter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_vod/service_vod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_vod/service_vod.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +142,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="D:\developer_tools\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="localRepository" value="C:\Program Files\apache-maven-3.6.1\local-repository" />
+        <option name="mavenHome" value="C:\Program Files\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -182,7 +210,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="show.run.dashboard.notification" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -439,6 +467,7 @@
       <workItem from="1599824645640" duration="771000" />
       <workItem from="1599833210856" duration="262000" />
       <workItem from="1656517519346" duration="361000" />
+      <workItem from="1656517906269" duration="540000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1597929729238</created>
@@ -461,7 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598529013222</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完善接口">
+      <created>1656517951354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656517951354</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完善接口">
+      <created>1656517959266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656517959266</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -661,6 +704,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/guli_parent$EduApplication.ic" NAME="EduApplication Coverage Results" MODIFIED="1597394934956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
